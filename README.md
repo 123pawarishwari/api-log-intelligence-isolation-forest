@@ -1,4 +1,5 @@
 # API Log Intelligence & Failure Detection System
+![Dashboard](Dashboard.png) 
 
 A Python portfolio project for analyzing API failures and latency, querying semi-structured logs, and flagging unusual behavior with Scikit-learn's Isolation Forest.
 
